@@ -1,0 +1,9 @@
+{
+  "name": "my-subsale-homes-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static MY Subsale Homes Hub website served on Railway",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
